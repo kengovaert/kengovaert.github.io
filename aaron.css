@@ -1,0 +1,142 @@
+body
+{
+  background-color: #DDDDDD;
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.premiere
+  {
+
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 3px lightgrey;
+    width: 150px;
+    margin-top: 10%;
+  }
+
+h1
+{
+  color: #DD5555;
+  font-style: bold;
+}
+header
+{
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: white;
+  padding-left: 3%;
+  padding-right: 3%;
+
+
+}
+
+
+
+.suite
+{
+  background-color: white;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-left: 3%;
+  padding-right: 3%;
+
+
+}
+
+
+.liens
+{
+  margin: 2% 25%;
+  padding: 5% 0% 0% 2%;
+  background-color: white;
+  height: 150px;
+  color: lightgrey;
+  font-size: 50px;
+}
+.lien{
+ display: inline-block;
+ width: 30%;
+ margin: 0 auto;
+ text-align:center;
+}
+.fa-facebook{
+  color: lightgrey;
+}
+.fa-linkedin{
+  color: lightgrey;
+}
+.fa-twitter{
+  color: lightgrey;
+
+}
+
+.social
+{
+  font-size: 12px;
+  display: block;
+}
+
+
+
+
+
+.bouton
+{
+
+  text-decoration: none;
+
+}
+
+input{
+  background-color: #DD5555;
+  border-radius: 15px;
+  width: 200px;
+  height: 50px;
+  color: white;
+  margin-bottom: 30px;
+  position: center;
+  font-size: 16px;
+  font-weight: bold
+}
+
+h2
+{
+  padding-top: 4px;
+  padding-bottom:5px
+
+}
+
+
+
+section img
+{
+  width: 30%;
+  float: left;
+  margin-top: 20%;
+
+}
+
+section p
+{
+  width: 55%;
+  display: inline-block;
+  padding: 0% 5% 0% 5%;
+
+}
+
+.suite h2
+{
+  padding: 2% 5% 0% 5%;
+  text-align: center
+}
+
+.suite h3
+{
+  padding: 0% 5% 0% 5%;
+  text-align: center
+
+}
